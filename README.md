@@ -13,7 +13,13 @@ You will follow the instructions on the page linked below. The "Parent and Child
 [Click here to go to the A-Frame Guide and Begin](https://aframe.io/docs/0.6.0/guides/building-a-basic-scene.html)
 
 ##### I finished my scene!
-Wooo! Congratulations, you've just made your first VR scene. Preview your scene and pop it out into its own tab. Copy and paste the url on this preview page and use <https://goo.gl/> to create a shortened link. Request a pair of VR goggles from one of the teachers. Use the samsung internet app in the library section and enter in your shortened URL to view your 3D scene. Click on the goggles in the bottom right corner to enter goggles mode. 
-If you want more to do...
+Wooo! Congratulations, you've just made your first VR scene. Want to experience the virtual reality world you just made?
+1. Preview your scene and pop it out into its own tab. 
+2. Copy and paste the url on this preview page and use <https://goo.gl/> to create a shortened link.
+3. Request a pair of VR goggles from one of the teachers. 
+4. Use the samsung internet app in the library section and enter in your shortened URL to view your 3D scene.
+5. Click on the goggles in the bottom right corner to enter goggles mode. 
+
+###### If you want more to do...
 * Try adding more shapes and animations to your basic scene
 * OR apply what you have learned from this excercise to your 3D resume 
